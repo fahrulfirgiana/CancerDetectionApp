@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+
+    <string name="title">Final Conclusion</string>
+    <string name="history">History</string>
+    <string name="news">News</string>
+    <string name="home">Home</string>
+
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="teks_tengah">Teks Tengah</string>
+    <string name="titleNews">Title\n</string>
+    <string name="link">Link</string>
+    <string name="cancerOrNonCancer">giugi</string>
+    <string name="aryatyx">Aryatyx</string>
+
+</resources>
